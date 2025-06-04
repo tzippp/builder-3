@@ -1,11 +1,7 @@
-import React from "react";
+import React from 'react';
 
 function App() {
-  return (
-    <div>
-      <h1>Hello from Builder 3!</h1>
-    </div>
-  );
+  return <div>Hello from Builder-ready React App!</div>;
 }
 
 export default App;
